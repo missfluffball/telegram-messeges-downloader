@@ -1,0 +1,5 @@
+phone = "your phone"
+api_id = "your api id"
+api_hash = "your api hash"
+download_directory = "your directory name"
+num_threads = 10
